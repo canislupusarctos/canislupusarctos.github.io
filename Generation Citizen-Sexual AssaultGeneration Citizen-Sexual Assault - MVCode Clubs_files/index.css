@@ -1,0 +1,31 @@
+.Heading {
+    text-align: center;
+    color: #ff0c00;
+    font-family: 'Faustina', serif;
+    background-color: #00ff8c;
+}
+
+.Subheading {
+    text-align: center;
+    color: #630400;
+    font-family: 'Caveat Brush', cursive;
+    background-color: #adddff;
+}
+
+body {
+    background-color: #3195f9;
+}
+
+.Content {
+    display: table-row;
+    display: table-cell;
+    border: 10px double orange;
+    padding: 10px;
+}
+
+.Content1 {
+    display: table-row;
+    display: table-cell;
+    border: 10px double orange;
+    padding: 10px;
+}
